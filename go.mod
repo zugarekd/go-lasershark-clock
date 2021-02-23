@@ -1,3 +1,3 @@
-module go.finxact.io/engineering/core/serial
+module github.com/zugarekd/go-lasershark-clock
 
-go 1.13
+go 1.15
